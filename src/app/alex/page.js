@@ -16,7 +16,7 @@ export default function App() {
       <div id="canvas-container" className="h-screen w-screen">
         <Canvas
           camera={{
-            position: [-6, 7, 7],
+            position: [0, 10, 25],
           }}
         >
           <Plane
