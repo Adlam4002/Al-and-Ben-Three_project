@@ -14,7 +14,7 @@ export default function AppBen() {
       <Canvas shadows>
       <Suspense fallback={null}>
         <BenScene />
-        <OrbitControls autoRotate  />
+        <OrbitControls />
         </Suspense>
       </Canvas>
     </main>
