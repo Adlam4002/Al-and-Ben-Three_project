@@ -10,7 +10,6 @@ export function Dude(props) {
         receiveShadow
         geometry={nodes.mesh_0.geometry}
         // material={nodes.mesh_0.material}
-        // material={}
         
       >
         <meshStandardMaterial color={'hotpink'}/>
